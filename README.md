@@ -45,15 +45,13 @@ Task-Management-Webapp/
 #1️⃣ Clone the Repository
 ```bash
 git clone https://github.com/Mananmishra2004/Task-Management-Webapp.git
-
 #2️⃣ Navigate to Project Directory
 cd Task-Management-Webapp
-
 #3️⃣ Install Dependencies
 npm install
-
 #4️⃣ Start the Server
 node index.js
+
 
 
 
